@@ -1,1 +1,1 @@
-# GraphSAGE
+This repository contains the core implementation of the GraphSAGE model proposed in our manuscript "[A Method for Identifying Landslide Potential Based on GraphSAGE and SBAS-InSAR]" (International Journal of Applied Earth Observation and Geoinformation)
